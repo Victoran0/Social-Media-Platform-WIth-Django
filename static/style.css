@@ -1,0 +1,27 @@
+.post-text {
+    padding-top: 0.5rem;
+}
+
+.post-link {
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+.post-link22 {
+    text-decoration: none;
+}
+
+.post-img {
+    float: left;
+    margin-right: 1rem;
+}
+
+.remove-default-btn {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.edit-color {
+    color: #333;
+}
