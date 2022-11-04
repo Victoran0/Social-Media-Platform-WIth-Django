@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+hiir_iaf+63gxe+7mr8fokhj$_)h=m*%8gdb6yiz#@@456!cc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Setting up AllAuth
 AUTHENTICATION_BACKENDS = [
@@ -56,7 +56,6 @@ INSTALLED_APPS = [
 ]
 
 SITE_ID = 1
-
 
 
 MIDDLEWARE = [
